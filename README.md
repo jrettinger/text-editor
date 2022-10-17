@@ -12,4 +12,4 @@ You can utilize the heroku link to access the browser. Within the terminal, you 
 
 
 ## Link to My Project
-<a href="https://jrettinger.github.io/text-editor/" target= blank>Link to my project</a>
+<a href="https://sheltered-savannah-57772.herokuapp.com/" target= blank>Link to my project</a>
